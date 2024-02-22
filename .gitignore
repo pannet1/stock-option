@@ -1,5 +1,6 @@
 data/**
-
+stock_option/enctoken.txt
+stock_option/NFO.csv
 ~*
 *.yml
 *.yaml
